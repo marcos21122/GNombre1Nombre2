@@ -13,6 +13,8 @@ public class Proyecto {
 		 System.out.println("Marce te queremos marce quedate");
 		 System.out.println("la echo de menos");
 		System.out.println("soy marcos ");
+		System.out.println("soy marcos1");
+		
 
 		System.out.println("soy ander");
 	}
