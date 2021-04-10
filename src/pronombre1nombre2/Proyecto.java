@@ -15,9 +15,9 @@ public class Proyecto {
 		System.out.println("soy marcos ");
 		System.out.println("soy marcos1");
 		System.out.println("buenas tardes");
-
+		System.out.println("esta es mi modificacion");
 		System.out.println("soy ander");
-		System.out.println  ("buenas noches");
+		System.out.println  ("buenaaaaaaas");
 	}
 
 }
