@@ -11,6 +11,7 @@ public class Proyecto {
 		 System.out.println("Marce apruebame");
 		 System.out.println("Porfavor que soy buen chaval");
 		 System.out.println("Marce te queremos marce quedate");
+		 System.out.println("la echo de menos");
 	}
 
 }
